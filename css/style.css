@@ -1,0 +1,39 @@
+.heading{
+  height: 10%;
+  width: 100%;
+  background-color: #fbfdfe;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.graphic{
+  font-size: 50px;
+  /* color: #ff6e03; */
+  color: #585c5c;
+  font-weight: bold;
+  /* text-shadow: 2px 7px 5px #aaaaaa; */
+  text-align: center;
+}
+.copy-center{
+  text-align: center;
+}
+		.img
+		{
+			/* height: 100rem; */
+			/* width: 100rem; */
+			background-color: red;
+			transition: all 500ms ease 0s;
+			margin: 10px;
+			float: left;
+			border:1px solid #000;
+		}
+		.img:hover
+		{
+			/*background-color: black;*/
+			transform: scale(1.1,1.1);
+		}
+ .menu{
+   color: orange;
+ }
+.menu:hover{
+  color: #007bff;
+}
